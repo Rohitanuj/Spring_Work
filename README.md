@@ -7,7 +7,6 @@ Requirements
 Access the API:
   http://localhost:8080/courses
 
-
 Project Structure:
 
 Projext structure
