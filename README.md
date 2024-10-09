@@ -7,28 +7,6 @@ Requirements
 Access the API:
   http://localhost:8080/courses
 
-Project Structure:
-
-Projext structure
-├── src
-│   └── main
-│     ├── java
-│     │   └── com.example.project
-│     │       ├── controller
-|     |        └──MyController
-│     │       |
-│     │       ├── service
-|     |                 └── CourseServiceImpl
-|     |                 └── CourseService
-│     │       ├── Entity 
-|     |       |          └──Course  
-│     │       └── RestProjectApplication
-│     └── resources
-│          └── application.properties
-│   
-├── pom.xml
-└── README.md
-
 # Application port
 server.port=8080
 
